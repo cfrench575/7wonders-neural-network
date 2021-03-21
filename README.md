@@ -1,5 +1,5 @@
 # 7wonders-neural-network
-ImageClassifier.ipynb trains a 4 layer neural network model created using  fastai (pytorch).
+ImageClassifier.ipynb (can be viewed here: https://nbviewer.jupyter.org/github/cfrench575/7wonders-neural-network/blob/main/ImageClassifier.ipynb) trains a 4 layer neural network model created using fastai (pytorch).
 
 The image classification model can recognize images of each of the 7 wonders of the modern world: 
   - Great Wall of China
